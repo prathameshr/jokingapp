@@ -1,0 +1,5 @@
+<resources>
+    <string name="interstitial_ad_unit_id" translatable="false">enter_interstitial_ad_unit_id</string>
+    <string name="banner_ad_unit_id" translatable="false">enter_banner_ad_unit_id</string>
+    <string name="device_id" translatable="false">enter_device_id</string>
+</resources>
